@@ -4,6 +4,8 @@ import (
 	"strings"
 )
 
+//
+
 func numJewelsInStones(J string, S string) int {
 	var count int = 0
 
